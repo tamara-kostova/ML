@@ -1,2 +1,1 @@
-# ML
-FINKI - Machine Learning
+# Laboratory exercises - Machine Learning
